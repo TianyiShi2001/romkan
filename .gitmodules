@@ -1,0 +1,3 @@
+[submodule "python-romkan"]
+	path = python-romkan
+	url = https://github.com/soimort/python-romkan
